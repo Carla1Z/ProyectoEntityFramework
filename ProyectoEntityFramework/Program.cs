@@ -4,7 +4,8 @@ using ProyectoEntityFramework;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<TareasContext>(p => p.UseInMemoryDatabase("TareasDB"));
+//builder.Services.AddDbContext<TareasContext>(p => p.UseInMemoryDatabase("TareasDB"));
+builder.Services.AddSqlServer<TareasContext>("Data Source=DESKTOP-JJF61NS\\SQLEXPRESS; Initial Catalog=TareasDB; Trusted_Connection=True; TrustServerCertificate=True");
 
 var app = builder.Build();
 
