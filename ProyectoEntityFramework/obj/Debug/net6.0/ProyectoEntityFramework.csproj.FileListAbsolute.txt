@@ -1,0 +1,15 @@
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\bin\Debug\net6.0\ProyectoEntityFramework.exe
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\bin\Debug\net6.0\ProyectoEntityFramework.deps.json
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\bin\Debug\net6.0\ProyectoEntityFramework.runtimeconfig.json
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\bin\Debug\net6.0\ProyectoEntityFramework.dll
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\bin\Debug\net6.0\ProyectoEntityFramework.pdb
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\obj\Debug\net6.0\ProyectoEntityFramework.csproj.AssemblyReference.cache
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\obj\Debug\net6.0\ProyectoEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\obj\Debug\net6.0\ProyectoEntityFramework.AssemblyInfoInputs.cache
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\obj\Debug\net6.0\ProyectoEntityFramework.AssemblyInfo.cs
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\obj\Debug\net6.0\ProyectoEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\obj\Debug\net6.0\ProyectoEntityFramework.dll
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\obj\Debug\net6.0\refint\ProyectoEntityFramework.dll
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\obj\Debug\net6.0\ProyectoEntityFramework.pdb
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\obj\Debug\net6.0\ProyectoEntityFramework.genruntimeconfig.cache
+C:\Users\Carla\source\repos\ProyectoEntityFramework\ProyectoEntityFramework\obj\Debug\net6.0\ref\ProyectoEntityFramework.dll
