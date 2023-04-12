@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace ProyectoEntityFramework.Models
@@ -20,6 +21,7 @@ namespace ProyectoEntityFramework.Models
 
         public int Peso { get; set; }
 
+        [JsonIgnore]
         public virtual ICollection<Tarea> Tareas { get; set; }
 
 

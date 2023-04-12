@@ -48,7 +48,7 @@ namespace ProyectoEntityFramework
                 tarea.HasOne(p => p.Categoria).WithMany(p => p.Tareas).HasForeignKey(p => p.CategoriaId);
 
                 tarea.Property(p => p.Titulo).IsRequired().HasMaxLength(200);
-
+                
                 tarea.Property(p => p.Descripcion).IsRequired(false);
 
                 tarea.Property(p => p.PrioridadTarea);
